@@ -1,0 +1,15 @@
+{
+  "name": "potato-promise",
+  "version": "1.0.0",
+  "description": "Promises, but lazier.",
+  "main": "index.js",
+  "repository": "https://github.com/caseyWebb/potato-promise",
+  "author": "Casey Webb <notcaseywebb@gmail.com>",
+  "license": "WTFPL",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}

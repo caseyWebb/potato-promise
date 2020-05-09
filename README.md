@@ -1,5 +1,7 @@
 # potato-promise
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/caseyWebb/potato-promise.svg)](https://greenkeeper.io/)
+
 [![NPM Version](https://img.shields.io/npm/v/potato-promise.svg)](https://www.npmjs.com/package/potato-promise)
 ![WTFPL](https://img.shields.io/npm/l/potato-promise.svg)
 [![Travis](https://img.shields.io/travis/caseyWebb/potato-promise.svg)](https://travis-ci.org/caseyWebb/potato-promise)
